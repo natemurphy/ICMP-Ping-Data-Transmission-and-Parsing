@@ -71,7 +71,7 @@ sudo apt-get install wireshark
 
 ## Usage Instructions
 
-Launch Wireshark in the terminal with superuser privileges by running. This opens the Wireshark GUI.
+Launch Wireshark in the terminal with superuser privileges. This opens the Wireshark GUI.
 
 Capture ICMP Packets:
 
