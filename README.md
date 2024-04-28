@@ -17,11 +17,15 @@ git clone https://github.com/natemurphy/ICMP-Ping-Data-Transmission-and-Parsing.
 cd ICMP-Ping-Data-Transmission-and-Parsing
 ```
 
-### 3.) Install the required dependencies (sudo may be required): 
+### 3.) Requirments:
+
+Make sure Python3 is installed.
 
 ```
-pip install -r requirements.txt
+pip install scapy pyshark
 ```
+Also make sure `tshark` is installed by doing `sudo apt-get install tshark`
+Scapy requires sudo to run.
 
 ## Usage Instructions
 
