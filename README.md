@@ -18,7 +18,7 @@ cd ICMP-Ping-Data-Transmission-and-Parsing
 ```
 
 ### 3.) Requirments:
-
+This project is designed to be ran on Linux.
 Make sure Python3 is installed.
 
 ```
